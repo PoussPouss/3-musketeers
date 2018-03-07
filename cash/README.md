@@ -5,7 +5,7 @@ This project allows to convert an amount of money between 2 currency.
 :warning: This application accepts a limit number of currency. Please look at [currencies accepted](/lib/currencies.json) the list of currencies available.
 
 ## Getting started
-1. Before launching this application, you need to install package used. You need to move in the folder [cash](.)
+1. Before launching this application, you need to install package used. You need to move in the folder [cash](/)
 ```
 npm install
 ```
