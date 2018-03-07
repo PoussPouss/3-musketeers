@@ -22,7 +22,7 @@ const convert = configuration => {
   money.rates = response.body.rates;
 
   to.forEach(item => {
-    // verify the currency it's available in the json
+    // verify the currency it's available in the json 
     if (currencies[item]) {
       loading.succeed(
         `${chalk.green(
